@@ -1,4 +1,4 @@
-# ML Assignment 3 - README
+# Neural Networks From Scratch
 
 We implement a multilayer artificial neural network (ANN) using only NumPy and Python, and comparing its performance with a single-layer ANN and a Keras-based ANN implementation
 
