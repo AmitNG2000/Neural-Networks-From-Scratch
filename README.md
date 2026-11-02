@@ -9,9 +9,9 @@ The implementation is based on Chapter 11 of the book *Machine Learning with PyT
 [Performance Report](performance_report.md)
 
 ### Assignment Instruction:
-[https://docs.google.com/document/d/19KZ-5a8XbB1EkJ6NK4b0S8B9HS_7OL8I/edit](https://docs.google.com/document/d/19KZ-5a8XbB1EkJ6NK4b0S8B9HS_7OL8I/edit)
+[Instruction](https://docs.google.com/document/d/19KZ-5a8XbB1EkJ6NK4b0S8B9HS_7OL8I/edit)
 
-[docs\ML_Assignment3_Instructions.pdf](docs\ML_Assignment3_Instructions.pdf)
+[Instruction](docs\ML_Assignment3_Instructions.pd)
 
 ### Students
 
