@@ -4,14 +4,9 @@ We implement a multilayer artificial neural network (ANN) using only NumPy and P
 
 The implementation is based on Chapter 11 of the book *Machine Learning with PyTorch and Scikit-Learn*.
 
-### Performance Report
+[Assignment Instructions](docs/ML_Assignment3_Instructions.pdf)
 
-[Performance Report](performance_report.md)
-
-### Assignment Instruction:
-[Instruction](https://docs.google.com/document/d/19KZ-5a8XbB1EkJ6NK4b0S8B9HS_7OL8I/edit)
-
-[Instruction](docs\ML_Assignment3_Instructions.pd)
+[Performance Report](performance_report.md)  
 
 ### Students
 
